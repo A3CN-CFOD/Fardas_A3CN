@@ -1,0 +1,12 @@
+dir = "@A3CN Fardas";
+name = "A3CN Fardas";
+actionName = "http://coopnights.com.br";
+logo = "\a3cm_fardas\data\mod.paa";
+logoOver = "\a3cn_fardas\data\mod.paa";
+tooltip = "A3CN Fardas";
+tooltipOwned = "Coopnights";
+Overview = "This is a mod containing uniforms and others gears with custom made camo used by the Coopnights group";
+author = "Hippye | Textures by NFC3SPECTRO";
+OverviewPicture = "\a3nc_fardas\data\mod.paa";
+OverviewText = "A3CN Fardas";
+logosmall = "\a3nc_fardas\data\mod_small.paa';
